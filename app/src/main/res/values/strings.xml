@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaBT</string>
+    <string name="btnsalir">SALIR</string>
+    <string name="btnciclo">INICIAR CICLO DE LLENADO</string>
+    <string name="btncon">CONECTAR</string>
+    <string name="strinfo">CICLO DETENIDO</string>
+</resources>
